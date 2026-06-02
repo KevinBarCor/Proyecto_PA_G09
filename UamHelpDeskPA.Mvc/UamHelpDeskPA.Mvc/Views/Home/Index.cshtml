@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Inicio";
+}
+
+<div class="container mt-5 text-center">
+
+    <img src="~/images/uam-logo.png"
+         width="250"
+         class="mb-4" />
+
+    <h1 class="display-4 mb-3">
+        UAM Lab Help Desk
+    </h1>
+
+    <p class="lead mb-4">
+        Sistema de Gestión de Laboratorios y Equipos
+    </p>
+
+    <div class="d-flex justify-content-center gap-3">
+
+        <a asp-controller="Laboratories"
+           asp-action="Index"
+           class="btn btn-primary btn-lg">
+
+            <i class="fas fa-building mr-2"></i>
+            Laboratorios
+
+        </a>
+
+        <a asp-controller="Equipment"
+           asp-action="Index"
+           class="btn btn-success btn-lg">
+
+            <i class="fas fa-desktop mr-2"></i>
+            Equipos
+
+        </a>
+
+    </div>
+
+</div>
