@@ -2,7 +2,7 @@
 using UamHelpDeskPA.Api.Data;
 using UamHelpDeskPA.Api.Interfaces;
 
-namespace UamHelpDeskPA.Repositories
+namespace UamHelpDeskPA.Api.Repositories
 {
     /// <summary>
     /// Implementación genérica base para repositorios.

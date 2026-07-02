@@ -4,7 +4,7 @@ using Microsoft.Extensions.Localization;
 using UamHelpDeskPA.Api.DTOs;
 using UamHelpDeskPA.Api.Interfaces;
 
-namespace UAMHelpDeskPA.Controllers
+namespace UamHelpDeskPA.Api.Controllers
 {
     [ApiController]
     [Authorize]

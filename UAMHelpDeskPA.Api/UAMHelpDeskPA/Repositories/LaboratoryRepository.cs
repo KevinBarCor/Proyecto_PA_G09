@@ -4,9 +4,8 @@ using UamHelpDeskPA.Api.Data;
 using UamHelpDeskPA.Api.DTOs;
 using UamHelpDeskPA.Api.Interfaces;
 using UamHelpDeskPA.Api.Models;
-using UamHelpDeskPA.Api.Interfaces;
 
-namespace UamHelpDeskPA.Repositories
+namespace UamHelpDeskPA.Api.Repositories
 {
     public class LaboratoryRepository(AppDbContext context,IStringLocalizer<LaboratoryRepository> localizer) : Repository<Laboratory>(context), ILaboratoryRepository
     {
@@ -38,7 +37,6 @@ namespace UamHelpDeskPA.Repositories
 
             var laboratories = await context.Laboratories
                 .AsNoTracking()
-                .Where(x => x.IsActive)
                 .ToListAsync(cancellationToken);
 
             var hasRecords = laboratories.Count > 0;

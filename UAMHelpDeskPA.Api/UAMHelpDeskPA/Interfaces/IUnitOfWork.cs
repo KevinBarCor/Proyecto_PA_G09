@@ -1,4 +1,5 @@
-﻿using UamHelpDeskPA.Api.Interfaces;
+﻿
+using UamHelpDeskPA.Api.Interfaces;
 
 namespace UamHelpDeskPA.Api.Interfaces
 {
@@ -15,8 +16,20 @@ namespace UamHelpDeskPA.Api.Interfaces
         IEquipmentRepository Equipment { get; }
 
 
-        /// Guarda en base de datos todos los cambios pendientes.
+        /// Repositorio de roles.
+        IRoleRepository Roles { get; }
 
+        //Repositorio de Users
+
+        IUserRepository Users { get; }
+        //Repositorio de Refreshtoken
+        IRefreshTokenRepository RefreshTokens { get; }
+
+        /// Guarda en base de datos todos los cambios pendientes.
+        IOtpCodeRepository OtpCodes { get; }
+
+        IPendingSessionRepository PendingSessions { get; }
+        IPasswordResetRequestRepository PasswordResetRequests { get; }
         Task<int> SaveChangesAsync(
             CancellationToken cancellationToken = default);
     }

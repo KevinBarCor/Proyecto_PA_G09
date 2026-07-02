@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UamHelpDeskPA.Mvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+419cca6286de62f6777f2d02078db1900877c2f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("UamHelpDeskPA.Mvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UamHelpDeskPA.Mvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

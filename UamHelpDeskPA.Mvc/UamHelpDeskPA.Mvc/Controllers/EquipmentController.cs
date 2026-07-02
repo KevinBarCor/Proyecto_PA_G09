@@ -3,11 +3,11 @@ using System.Net.Http.Headers;
 using System.Text;
 using System.Text.Json;
 using UamHelpDeskPA.Mvc.Models;
-
-namespace UAMHelpDeskPA.Mvc.Controllers;
+using UamHelpDeskPA.Mvc.Services;
+namespace UamHelpDeskPA.Mvc.Controllers;
 
 public class EquipmentController(
-    IHttpClientFactory httpClientFactory,
+    ApiClientService apiClient,
     IConfiguration configuration) : Controller
 {
     private static readonly JsonSerializerOptions JsonOptions =
@@ -19,230 +19,128 @@ public class EquipmentController(
     }
 
     [HttpGet]
-    public async Task<IActionResult> GetEquipment(
-        CancellationToken cancellationToken)
+    public async Task<IActionResult> GetEquipment(CancellationToken cancellationToken)
     {
-        var client = httpClientFactory.CreateClient();
-
-        var token = await GetTokenAsync(client, cancellationToken);
-
-        if (string.IsNullOrWhiteSpace(token))
-        {
-            return Unauthorized(new
-            {
-                message = "No fue posible autenticar contra el API."
-            });
-        }
+        var client = apiClient.CreateClient();
 
         var endpoint =
             $"{configuration["ApiSettings:BaseUrl"]}" +
             $"{configuration["ApiSettings:EquipmentBaseEndpoint"]}" +
             "/GetAllEquipment";
 
-        using var request =
-            new HttpRequestMessage(HttpMethod.Get, endpoint);
+        var response = await client.GetAsync(endpoint, cancellationToken);
 
-        request.Headers.Authorization =
-            new AuthenticationHeaderValue("Bearer", token);
-
-        using var response =
-            await client.SendAsync(request, cancellationToken);
-
-        var content =
-            await response.Content.ReadAsStringAsync(cancellationToken);
+        var content = await response.Content.ReadAsStringAsync(cancellationToken);
 
         if (!response.IsSuccessStatusCode)
-        {
             return StatusCode((int)response.StatusCode, content);
-        }
 
-        var apiResult =
-            JsonSerializer.Deserialize<
-                ApiResponse<List<EquipmentDto>>>
-            (content, JsonOptions);
+        var result = JsonSerializer.Deserialize<ApiResponse<List<EquipmentDto>>>(
+            content,
+            new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
 
-        return Json(apiResult?.Result ?? new List<EquipmentDto>());
+        return Json(result?.Result ?? new List<EquipmentDto>());
     }
     [HttpGet]
-    public async Task<IActionResult> GetEquipmentById(
-    int id,
-    CancellationToken cancellationToken)
+    public async Task<IActionResult> GetEquipmentById(int id, CancellationToken cancellationToken)
     {
-        var client = httpClientFactory.CreateClient();
+        var client = apiClient.CreateClient();
 
-        var token = await GetTokenAsync(client, cancellationToken);
+        var endpoint =
+            $"{configuration["ApiSettings:BaseUrl"]}" +
+            $"{configuration["ApiSettings:EquipmentBaseEndpoint"]}" +
+            $"/GetEquipmentById/{id}";
 
-        if (string.IsNullOrWhiteSpace(token))
-        {
-            return Unauthorized();
-        }
+        var response = await client.GetAsync(endpoint, cancellationToken);
 
-        var endpoint = $"{configuration["ApiSettings:BaseUrl"]}" + $"{configuration["ApiSettings:EquipmentBaseEndpoint"]}" + $"/GetEquipmentById/{id}";
-
-        using var request = new HttpRequestMessage(HttpMethod.Get, endpoint);
-
-        request.Headers.Authorization = new AuthenticationHeaderValue("Bearer", token);
-
-        using var response = await client.SendAsync(request, cancellationToken);
-
-        var content =  await response.Content.ReadAsStringAsync(cancellationToken);
+        var content = await response.Content.ReadAsStringAsync(cancellationToken);
 
         return StatusCode((int)response.StatusCode, content);
     }
     [HttpGet]
-    public async Task<IActionResult> GetLaboratories(
-        CancellationToken cancellationToken)
+    public async Task<IActionResult> GetLaboratories(CancellationToken cancellationToken)
     {
-        var client = httpClientFactory.CreateClient();
-
-        var token = await GetTokenAsync(client, cancellationToken);
-
-        if (string.IsNullOrWhiteSpace(token))
-        {
-            return Unauthorized();
-        }
+        var client = apiClient.CreateClient();
 
         var endpoint =
             $"{configuration["ApiSettings:BaseUrl"]}" +
             $"{configuration["ApiSettings:LaboratoriesBaseEndpoint"]}" +
             "/GetAllLaboratories";
 
-        using var request =
-            new HttpRequestMessage(HttpMethod.Get, endpoint);
+        var response = await client.GetAsync(endpoint, cancellationToken);
 
-        request.Headers.Authorization =
-            new AuthenticationHeaderValue("Bearer", token);
-
-        using var response =
-            await client.SendAsync(request, cancellationToken);
-
-        var content =
-            await response.Content.ReadAsStringAsync(cancellationToken);
+        var content = await response.Content.ReadAsStringAsync(cancellationToken);
 
         if (!response.IsSuccessStatusCode)
-        {
             return StatusCode((int)response.StatusCode, content);
-        }
 
-        var apiResult =
-            JsonSerializer.Deserialize<
-                ApiResponse<List<LaboratoryDto>>>
-            (content, JsonOptions);
+        var apiResult = JsonSerializer.Deserialize<ApiResponse<List<LaboratoryDto>>>(
+            content,
+            new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
 
-        return Json(apiResult?.Result ?? new List<LaboratoryDto>());
+        var result = apiResult?.Result
+            ?.Where(x => x.IsActive) 
+            .Select(x => new LaboratorySelectDto
+            {
+                Id = x.Id,
+                Name = x.Name
+            })
+            .ToList();
+
+        return Json(result);
     }
 
     [HttpPost]
     public async Task<IActionResult> CreateEquipment(
-        [FromBody] EquipmentUpsertDto dto,
-        CancellationToken cancellationToken)
+    [FromBody] EquipmentUpsertDto dto,
+    CancellationToken cancellationToken)
     {
-        var client = httpClientFactory.CreateClient();
-
-        var token = await GetTokenAsync(client, cancellationToken);
-
-        if (string.IsNullOrWhiteSpace(token))
-        {
-            return Unauthorized();
-        }
+        var client = apiClient.CreateClient();
 
         var endpoint =
             $"{configuration["ApiSettings:BaseUrl"]}" +
             $"{configuration["ApiSettings:EquipmentBaseEndpoint"]}" +
             "/CreateEquipment";
 
-        using var request =
-            new HttpRequestMessage(HttpMethod.Post, endpoint);
+        var response = await client.PostAsJsonAsync(endpoint, dto, cancellationToken);
 
-        request.Headers.Authorization =
-            new AuthenticationHeaderValue("Bearer", token);
-
-        request.Content =
-            new StringContent(
-                JsonSerializer.Serialize(dto),
-                Encoding.UTF8,
-                "application/json");
-
-        using var response =
-            await client.SendAsync(request, cancellationToken);
-
-        var content =
-            await response.Content.ReadAsStringAsync(cancellationToken);
+        var content = await response.Content.ReadAsStringAsync(cancellationToken);
 
         return StatusCode((int)response.StatusCode, content);
     }
 
     [HttpPut]
     public async Task<IActionResult> UpdateEquipment(
-        int id,
-        [FromBody] EquipmentUpsertDto dto,
-        CancellationToken cancellationToken)
+    int id,
+    [FromBody] EquipmentUpsertDto dto,
+    CancellationToken cancellationToken)
     {
-        var client = httpClientFactory.CreateClient();
-
-        var token = await GetTokenAsync(client, cancellationToken);
-
-        if (string.IsNullOrWhiteSpace(token))
-        {
-            return Unauthorized();
-        }
+        var client = apiClient.CreateClient();
 
         var endpoint =
             $"{configuration["ApiSettings:BaseUrl"]}" +
             $"{configuration["ApiSettings:EquipmentBaseEndpoint"]}" +
             $"/UpdateEquipment/{id}";
 
-        using var request =
-            new HttpRequestMessage(HttpMethod.Put, endpoint);
+        var response = await client.PutAsJsonAsync(endpoint, dto, cancellationToken);
 
-        request.Headers.Authorization =
-            new AuthenticationHeaderValue("Bearer", token);
-
-        request.Content =
-            new StringContent(
-                JsonSerializer.Serialize(dto),
-                Encoding.UTF8,
-                "application/json");
-
-        using var response =
-            await client.SendAsync(request, cancellationToken);
-
-        var content =
-            await response.Content.ReadAsStringAsync(cancellationToken);
+        var content = await response.Content.ReadAsStringAsync(cancellationToken);
 
         return StatusCode((int)response.StatusCode, content);
     }
-
     [HttpDelete]
-    public async Task<IActionResult> DeleteEquipment(
-        int id,
-        CancellationToken cancellationToken)
+    public async Task<IActionResult> DeleteEquipment(int id, CancellationToken cancellationToken)
     {
-        var client = httpClientFactory.CreateClient();
-
-        var token = await GetTokenAsync(client, cancellationToken);
-
-        if (string.IsNullOrWhiteSpace(token))
-        {
-            return Unauthorized();
-        }
+        var client = apiClient.CreateClient();
 
         var endpoint =
             $"{configuration["ApiSettings:BaseUrl"]}" +
             $"{configuration["ApiSettings:EquipmentBaseEndpoint"]}" +
             $"/DeleteEquipment/{id}";
 
-        using var request =
-            new HttpRequestMessage(HttpMethod.Delete, endpoint);
+        var response = await client.DeleteAsync(endpoint, cancellationToken);
 
-        request.Headers.Authorization =
-            new AuthenticationHeaderValue("Bearer", token);
-
-        using var response =
-            await client.SendAsync(request, cancellationToken);
-
-        var content =
-            await response.Content.ReadAsStringAsync(cancellationToken);
+        var content = await response.Content.ReadAsStringAsync(cancellationToken);
 
         return StatusCode((int)response.StatusCode, content);
     }
@@ -289,7 +187,7 @@ public class EquipmentController(
 
         var apiResult =
             JsonSerializer.Deserialize<
-                ApiResponse<LoginResponseDto>>
+                ApiResponse<AuthResponseDto>>
             (content, JsonOptions);
 
         return apiResult?.Result?.AccessToken;

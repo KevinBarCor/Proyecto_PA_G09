@@ -1,14 +1,16 @@
-using Microsoft.EntityFrameworkCore;
-using Microsoft.AspNetCore.Localization;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Localization;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Globalization;
 using System.Text;
 using UamHelpDeskPA.Api.Data;
 using UamHelpDeskPA.Api.Interfaces;
-using UamHelpDeskPA.Api.Repositories;
 using UamHelpDeskPA.Api.Middlewares;
+using UamHelpDeskPA.Api.Repositories;
+using UamHelpDeskPA.Api.Services;
+using UamHelpDeskPA.Api.Services.Auth;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -53,12 +55,15 @@ builder.Services.AddDbContext<UamHelpDeskPA.Api.Data.AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 // Registramos Unit of Work para inyección de dependencias.
 // Esto permite que el controlador use una sola puerta de acceso a repositorios.
+
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.AddScoped<IAuthService, AuthService>();
 // Configuramos autenticación JWT nativa.
 var jwtSection = builder.Configuration.GetSection("Jwt");
 var secretKey = jwtSection["SecretKey"] ?? throw new InvalidOperationException("Falta Jwt:SecretKey en appsettings.json");
 var key = Encoding.UTF8.GetBytes(secretKey);
 
+builder.Services.AddScoped<IEmailService, EmailService>();
 builder.Services
     .AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
@@ -78,7 +83,7 @@ builder.Services
         };
     });
 builder.Services.AddAuthorization();
-
+Console.WriteLine(BCrypt.Net.BCrypt.HashPassword("Admin123*"));
 // Construimos la aplicación con todo lo registrado anteriormente.
 var app = builder.Build();
 

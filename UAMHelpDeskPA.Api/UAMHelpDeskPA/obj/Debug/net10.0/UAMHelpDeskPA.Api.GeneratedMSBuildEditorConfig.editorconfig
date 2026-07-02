@@ -18,47 +18,83 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.TargetFrameworkIdentifier = .NETCoreApp
 build_property.TargetFrameworkVersion = v10.0
 build_property.EntryPointFilePath = 
-build_property.RootNamespace = UamHelpDeskPA.Api
-build_property.RootNamespace = UamHelpDeskPA.Api
-build_property.ProjectDir = C:\Users\kevbc\source\repos\UAMHelpDeskPA.Api\UAMHelpDeskPA\
+build_property.RootNamespace = UAMHelpDeskPA.Api
+build_property.RootNamespace = UAMHelpDeskPA.Api
+build_property.ProjectDir = C:\Users\kevbc\source\repos\Proyecto_PA_G09\UAMHelpDeskPA.Api\UAMHelpDeskPA\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 10.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\kevbc\source\repos\UAMHelpDeskPA.Api\UAMHelpDeskPA
+build_property.MSBuildProjectDirectory = C:\Users\kevbc\source\repos\Proyecto_PA_G09\UAMHelpDeskPA.Api\UAMHelpDeskPA
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/kevbc/source/repos/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/Controllers/EquipmentController.resx]
+[C:/Users/kevbc/source/repos/Proyecto_PA_G09/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/Controllers/EquipmentController.resx]
 build_metadata.AdditionalFiles.TargetPath = Resources\Controllers\EquipmentController.resx
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevbc/source/repos/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/Controllers/LaboratoriesController.resx]
+[C:/Users/kevbc/source/repos/Proyecto_PA_G09/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/Controllers/LaboratoriesController.resx]
 build_metadata.AdditionalFiles.TargetPath = Resources\Controllers\LaboratoriesController.resx
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevbc/source/repos/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/Repositories/EquipmentRepository.resx]
+[C:/Users/kevbc/source/repos/Proyecto_PA_G09/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/Controllers/RolesController.resx]
+build_metadata.AdditionalFiles.TargetPath = Resources\Controllers\RolesController.resx
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kevbc/source/repos/Proyecto_PA_G09/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/Controllers/UsersController.resx]
+build_metadata.AdditionalFiles.TargetPath = Resources\Controllers\UsersController.resx
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kevbc/source/repos/Proyecto_PA_G09/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/Repositories/EquipmentRepository.resx]
 build_metadata.AdditionalFiles.TargetPath = Resources\Repositories\EquipmentRepository.resx
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevbc/source/repos/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/Repositories/LaboratoryRepository.resx]
+[C:/Users/kevbc/source/repos/Proyecto_PA_G09/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/Repositories/LaboratoryRepository.resx]
 build_metadata.AdditionalFiles.TargetPath = Resources\Repositories\LaboratoryRepository.resx
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevbc/source/repos/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/Controllers/EquipmentController.en.resx]
+[C:/Users/kevbc/source/repos/Proyecto_PA_G09/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/Repositories/RoleRepository.resx]
+build_metadata.AdditionalFiles.TargetPath = Resources\Repositories\RoleRepository.resx
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kevbc/source/repos/Proyecto_PA_G09/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/Repositories/UserRepository.resx]
+build_metadata.AdditionalFiles.TargetPath = Resources\Repositories\UserRepository.resx
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kevbc/source/repos/Proyecto_PA_G09/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/UamHelpDeskPA.Api.Services.Auth.AuthService.resx]
+build_metadata.AdditionalFiles.TargetPath = Resources\UamHelpDeskPA.Api.Services.Auth.AuthService.resx
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kevbc/source/repos/Proyecto_PA_G09/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/Controllers/EquipmentController.en.resx]
 build_metadata.AdditionalFiles.TargetPath = Resources\Controllers\EquipmentController.en.resx
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevbc/source/repos/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/Controllers/LaboratoriesController.en.resx]
+[C:/Users/kevbc/source/repos/Proyecto_PA_G09/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/Controllers/LaboratoriesController.en.resx]
 build_metadata.AdditionalFiles.TargetPath = Resources\Controllers\LaboratoriesController.en.resx
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevbc/source/repos/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/Repositories/EquipmentRepository.en.resx]
+[C:/Users/kevbc/source/repos/Proyecto_PA_G09/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/Controllers/RolesController.en.resx]
+build_metadata.AdditionalFiles.TargetPath = Resources\Controllers\RolesController.en.resx
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kevbc/source/repos/Proyecto_PA_G09/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/Controllers/UsersController.en.resx]
+build_metadata.AdditionalFiles.TargetPath = Resources\Controllers\UsersController.en.resx
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kevbc/source/repos/Proyecto_PA_G09/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/Repositories/EquipmentRepository.en.resx]
 build_metadata.AdditionalFiles.TargetPath = Resources\Repositories\EquipmentRepository.en.resx
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevbc/source/repos/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/Repositories/LaboratoryRepository.en.resx]
+[C:/Users/kevbc/source/repos/Proyecto_PA_G09/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/Repositories/LaboratoryRepository.en.resx]
 build_metadata.AdditionalFiles.TargetPath = Resources\Repositories\LaboratoryRepository.en.resx
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kevbc/source/repos/Proyecto_PA_G09/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/Repositories/RoleRepository.en.resx]
+build_metadata.AdditionalFiles.TargetPath = Resources\Repositories\RoleRepository.en.resx
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kevbc/source/repos/Proyecto_PA_G09/UAMHelpDeskPA.Api/UAMHelpDeskPA/Resources/Repositories/UserRepository.en.resx]
+build_metadata.AdditionalFiles.TargetPath = Resources\Repositories\UserRepository.en.resx
 build_metadata.AdditionalFiles.CssScope = 

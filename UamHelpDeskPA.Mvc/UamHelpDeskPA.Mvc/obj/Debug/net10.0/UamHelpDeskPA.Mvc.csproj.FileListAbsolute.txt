@@ -96,3 +96,494 @@ C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.
 C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.pdb
 C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.genruntimeconfig.cache
 C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\ref\UamHelpDeskPA.Mvc.dll
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.exe
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.dll
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\appsettings.json
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.staticwebassets.runtime.json
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.staticwebassets.endpoints.json
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.AssemblyInfoInputs.cache
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.AssemblyInfo.cs
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.RazorAssemblyInfo.cache
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.RazorAssemblyInfo.cs
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\scopedcss\bundle\UamHelpDeskPA.Mvc.styles.css
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\scopedcss\projectbundle\UamHelpDeskPA.Mvc.bundle.scp.css
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\c9abccu21o-{0}-1jzryyisot-1jzryyisot.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\gsaz52m2vk-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\w96rzpjo04-{0}-fr7q2aak1r-fr7q2aak1r.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\9sppns9xky-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\4roeh50g3h-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\vcpnlfrb7x-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\iu1sgykp20-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\wlgs831cf1-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\wfj4m8lg3o-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\rddoex14tm-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\mxivraqavv-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\y3uq00gqde-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\6rayn4o48e-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\vc6gbd2y4q-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\4zfx40upcf-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\l3ytxsphdd-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\8l9blflokj-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\qvgcgkguok-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\bypfakdub1-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\mqrqa95ic3-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\e6940k7crt-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\q6rw59vgls-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\zu0kpayx4y-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\8dwmlvh566-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\fcgjmmvxhx-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\v3v2vyvbfl-{0}-06098lyss8-06098lyss8.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\zwuvo5vlpo-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\ny4c920bkg-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\jyz963h81x-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\geat2rr7nm-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\aulkkphisc-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\um34p2ezj0-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\zap4evgyj3-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\o5wi71kwz2-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\pd07qrmht3-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\7mm5vji83n-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\kxekb739yz-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\d4dpeykzce-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\g7bu0v2l2z-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\4gga4jlw0s-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\43pgv1ddel-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\x6k9nw6lbf-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\dch0w9vcw2-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\ireofchshr-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\jq8fup2jop-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\3yjfop6a8d-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\5xz36d346c-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\qzx3r19gqn-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\7dd3308ors-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\bhrxyty5lt-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\icqw1vw3d4-{0}-ilo7uva0vt-ilo7uva0vt.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\nwwzdebz4p-{0}-qlccset4i1-qlccset4i1.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\uq6q5rw6jc-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\6q3hx61cfu-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\kovh5tpu8i-{0}-xzw0cte36n-xzw0cte36n.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\mqs3etpjwp-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\zkdffuvg5v-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\73lxnb8iv6-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\tbzzvxgdbe-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\mcledqn9ad-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\umbmvtxuny-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\b1mvtw2ykl-{0}-jfsiqqwiad-jfsiqqwiad.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\gbhg7p4g9t-{0}-57wdpf1kc1-57wdpf1kc1.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\sksxfdz8hu-{0}-57wdpf1kc1-57wdpf1kc1.gz
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.dll
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\refint\UamHelpDeskPA.Mvc.dll
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.pdb
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.deps.json
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.runtimeconfig.json
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.pdb
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.genruntimeconfig.cache
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\ref\UamHelpDeskPA.Mvc.dll
+C:\Users\mejia\Downloads\Proyecto_PA_G09-main (1)\Proyecto_PA_G09-main\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\appsettings.json
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.staticwebassets.runtime.json
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.staticwebassets.endpoints.json
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.exe
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.deps.json
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.runtimeconfig.json
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.dll
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.pdb
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.AssemblyInfoInputs.cache
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.AssemblyInfo.cs
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.RazorAssemblyInfo.cache
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.RazorAssemblyInfo.cs
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\scopedcss\bundle\UamHelpDeskPA.Mvc.styles.css
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\scopedcss\projectbundle\UamHelpDeskPA.Mvc.bundle.scp.css
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\c9abccu21o-{0}-1jzryyisot-1jzryyisot.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\gsaz52m2vk-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\w96rzpjo04-{0}-fr7q2aak1r-fr7q2aak1r.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\9sppns9xky-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\4roeh50g3h-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\vcpnlfrb7x-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\iu1sgykp20-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\wlgs831cf1-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\wfj4m8lg3o-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\rddoex14tm-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\mxivraqavv-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\y3uq00gqde-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\6rayn4o48e-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\vc6gbd2y4q-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\4zfx40upcf-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\l3ytxsphdd-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\8l9blflokj-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\qvgcgkguok-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\bypfakdub1-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\mqrqa95ic3-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\e6940k7crt-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\q6rw59vgls-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\zu0kpayx4y-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\8dwmlvh566-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\fcgjmmvxhx-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\v3v2vyvbfl-{0}-06098lyss8-06098lyss8.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\zwuvo5vlpo-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\ny4c920bkg-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\jyz963h81x-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\geat2rr7nm-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\aulkkphisc-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\um34p2ezj0-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\zap4evgyj3-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\o5wi71kwz2-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\pd07qrmht3-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\7mm5vji83n-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\kxekb739yz-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\d4dpeykzce-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\g7bu0v2l2z-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\4gga4jlw0s-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\43pgv1ddel-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\x6k9nw6lbf-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\dch0w9vcw2-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\ireofchshr-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\jq8fup2jop-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\3yjfop6a8d-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\5xz36d346c-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\qzx3r19gqn-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\7dd3308ors-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\bhrxyty5lt-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\icqw1vw3d4-{0}-ilo7uva0vt-ilo7uva0vt.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\nwwzdebz4p-{0}-qlccset4i1-qlccset4i1.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\uq6q5rw6jc-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\6q3hx61cfu-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\kovh5tpu8i-{0}-xzw0cte36n-xzw0cte36n.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\mqs3etpjwp-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\zkdffuvg5v-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\73lxnb8iv6-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\tbzzvxgdbe-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\mcledqn9ad-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\umbmvtxuny-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\b1mvtw2ykl-{0}-jfsiqqwiad-jfsiqqwiad.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\gbhg7p4g9t-{0}-57wdpf1kc1-57wdpf1kc1.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\sksxfdz8hu-{0}-57wdpf1kc1-57wdpf1kc1.gz
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.dll
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\refint\UamHelpDeskPA.Mvc.dll
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.pdb
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.genruntimeconfig.cache
+C:\Users\kevbc\source\repos\UamHelpDeskPA.Mvc.cop\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\ref\UamHelpDeskPA.Mvc.dll
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\appsettings.Development.json
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\appsettings.json
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.staticwebassets.runtime.json
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.staticwebassets.endpoints.json
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.exe
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.deps.json
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.runtimeconfig.json
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.dll
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.pdb
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.AssemblyInfoInputs.cache
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.AssemblyInfo.cs
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.csproj.CoreCompileInputs.cache
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.RazorAssemblyInfo.cache
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.RazorAssemblyInfo.cs
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\scopedcss\bundle\UamHelpDeskPA.Mvc.styles.css
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\scopedcss\projectbundle\UamHelpDeskPA.Mvc.bundle.scp.css
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\c9abccu21o-{0}-1jzryyisot-1jzryyisot.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\gsaz52m2vk-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\w96rzpjo04-{0}-fr7q2aak1r-fr7q2aak1r.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\9sppns9xky-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\4roeh50g3h-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\vcpnlfrb7x-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\iu1sgykp20-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\wlgs831cf1-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\wfj4m8lg3o-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\rddoex14tm-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\mxivraqavv-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\y3uq00gqde-{0}-ub07r2b239-ub07r2b239.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\6rayn4o48e-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\vc6gbd2y4q-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\4zfx40upcf-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\l3ytxsphdd-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\8l9blflokj-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\qvgcgkguok-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\bypfakdub1-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\mqrqa95ic3-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\e6940k7crt-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\q6rw59vgls-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\zu0kpayx4y-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\8dwmlvh566-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\fcgjmmvxhx-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\v3v2vyvbfl-{0}-06098lyss8-06098lyss8.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\zwuvo5vlpo-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\ny4c920bkg-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\jyz963h81x-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\geat2rr7nm-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\aulkkphisc-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\um34p2ezj0-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\zap4evgyj3-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\o5wi71kwz2-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\pd07qrmht3-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\7mm5vji83n-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\kxekb739yz-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\d4dpeykzce-{0}-493y06b0oq-493y06b0oq.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\g7bu0v2l2z-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\4gga4jlw0s-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\43pgv1ddel-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\x6k9nw6lbf-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\dch0w9vcw2-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\ireofchshr-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\jq8fup2jop-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\3yjfop6a8d-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\5xz36d346c-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\qzx3r19gqn-{0}-47otxtyo56-47otxtyo56.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\7dd3308ors-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\bhrxyty5lt-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\icqw1vw3d4-{0}-ilo7uva0vt-ilo7uva0vt.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\nwwzdebz4p-{0}-qlccset4i1-qlccset4i1.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\uq6q5rw6jc-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\6q3hx61cfu-{0}-ag7o75518u-ag7o75518u.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\kovh5tpu8i-{0}-xzw0cte36n-xzw0cte36n.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\mqs3etpjwp-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\zkdffuvg5v-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\73lxnb8iv6-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\tbzzvxgdbe-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\mcledqn9ad-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\umbmvtxuny-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\b1mvtw2ykl-{0}-jfsiqqwiad-jfsiqqwiad.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\gbhg7p4g9t-{0}-57wdpf1kc1-57wdpf1kc1.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\sksxfdz8hu-{0}-57wdpf1kc1-57wdpf1kc1.gz
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.build.json
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.development.json
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\swae.build.ex.cache
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.dll
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\refint\UamHelpDeskPA.Mvc.dll
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.pdb
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.genruntimeconfig.cache
+C:\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\ref\UamHelpDeskPA.Mvc.dll
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\appsettings.json
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.staticwebassets.runtime.json
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.staticwebassets.endpoints.json
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.exe
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.deps.json
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.runtimeconfig.json
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.dll
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.pdb
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.AssemblyInfoInputs.cache
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.AssemblyInfo.cs
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.RazorAssemblyInfo.cache
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.RazorAssemblyInfo.cs
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\scopedcss\bundle\UamHelpDeskPA.Mvc.styles.css
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\scopedcss\projectbundle\UamHelpDeskPA.Mvc.bundle.scp.css
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\c9abccu21o-{0}-1jzryyisot-1jzryyisot.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\gsaz52m2vk-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\w96rzpjo04-{0}-fr7q2aak1r-fr7q2aak1r.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\9sppns9xky-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\4roeh50g3h-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\vcpnlfrb7x-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\iu1sgykp20-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\wlgs831cf1-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\wfj4m8lg3o-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\rddoex14tm-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\mxivraqavv-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\y3uq00gqde-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\6rayn4o48e-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\vc6gbd2y4q-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\4zfx40upcf-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\l3ytxsphdd-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\8l9blflokj-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\qvgcgkguok-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\bypfakdub1-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\mqrqa95ic3-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\e6940k7crt-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\q6rw59vgls-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\zu0kpayx4y-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\8dwmlvh566-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\fcgjmmvxhx-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\v3v2vyvbfl-{0}-06098lyss8-06098lyss8.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\zwuvo5vlpo-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\ny4c920bkg-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\jyz963h81x-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\geat2rr7nm-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\aulkkphisc-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\um34p2ezj0-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\zap4evgyj3-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\o5wi71kwz2-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\pd07qrmht3-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\7mm5vji83n-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\kxekb739yz-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\d4dpeykzce-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\g7bu0v2l2z-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\4gga4jlw0s-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\43pgv1ddel-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\x6k9nw6lbf-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\dch0w9vcw2-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\ireofchshr-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\jq8fup2jop-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\3yjfop6a8d-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\5xz36d346c-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\qzx3r19gqn-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\7dd3308ors-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\bhrxyty5lt-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\icqw1vw3d4-{0}-ilo7uva0vt-ilo7uva0vt.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\nwwzdebz4p-{0}-qlccset4i1-qlccset4i1.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\uq6q5rw6jc-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\6q3hx61cfu-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\kovh5tpu8i-{0}-xzw0cte36n-xzw0cte36n.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\mqs3etpjwp-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\zkdffuvg5v-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\73lxnb8iv6-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\tbzzvxgdbe-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\mcledqn9ad-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\umbmvtxuny-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\b1mvtw2ykl-{0}-jfsiqqwiad-jfsiqqwiad.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\gbhg7p4g9t-{0}-57wdpf1kc1-57wdpf1kc1.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\sksxfdz8hu-{0}-57wdpf1kc1-57wdpf1kc1.gz
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.dll
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\refint\UamHelpDeskPA.Mvc.dll
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.pdb
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.genruntimeconfig.cache
+C:\Users\mejia\Downloads\ProyectosProgra\ProyectosProgra\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\ref\UamHelpDeskPA.Mvc.dll
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\appsettings.json
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.staticwebassets.endpoints.json
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.staticwebassets.runtime.json
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.exe
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.deps.json
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.runtimeconfig.json
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.dll
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\bin\Debug\net10.0\UamHelpDeskPA.Mvc.pdb
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.AssemblyInfoInputs.cache
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.AssemblyInfo.cs
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.csproj.CoreCompileInputs.cache
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.RazorAssemblyInfo.cache
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.RazorAssemblyInfo.cs
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.sourcelink.json
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\scopedcss\bundle\UamHelpDeskPA.Mvc.styles.css
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\scopedcss\projectbundle\UamHelpDeskPA.Mvc.bundle.scp.css
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\c9abccu21o-{0}-1jzryyisot-1jzryyisot.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\gsaz52m2vk-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\w96rzpjo04-{0}-fr7q2aak1r-fr7q2aak1r.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\9sppns9xky-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\4roeh50g3h-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\vcpnlfrb7x-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\iu1sgykp20-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\wlgs831cf1-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\wfj4m8lg3o-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\rddoex14tm-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\mxivraqavv-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\y3uq00gqde-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\6rayn4o48e-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\vc6gbd2y4q-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\4zfx40upcf-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\l3ytxsphdd-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\8l9blflokj-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\qvgcgkguok-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\bypfakdub1-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\mqrqa95ic3-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\e6940k7crt-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\q6rw59vgls-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\zu0kpayx4y-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\8dwmlvh566-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\fcgjmmvxhx-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\v3v2vyvbfl-{0}-06098lyss8-06098lyss8.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\zwuvo5vlpo-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\ny4c920bkg-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\jyz963h81x-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\geat2rr7nm-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\aulkkphisc-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\um34p2ezj0-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\zap4evgyj3-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\o5wi71kwz2-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\pd07qrmht3-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\7mm5vji83n-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\kxekb739yz-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\d4dpeykzce-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\g7bu0v2l2z-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\4gga4jlw0s-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\43pgv1ddel-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\x6k9nw6lbf-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\dch0w9vcw2-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\ireofchshr-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\jq8fup2jop-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\3yjfop6a8d-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\5xz36d346c-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\qzx3r19gqn-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\7dd3308ors-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\bhrxyty5lt-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\icqw1vw3d4-{0}-ilo7uva0vt-ilo7uva0vt.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\nwwzdebz4p-{0}-qlccset4i1-qlccset4i1.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\uq6q5rw6jc-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\6q3hx61cfu-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\kovh5tpu8i-{0}-xzw0cte36n-xzw0cte36n.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\mqs3etpjwp-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\zkdffuvg5v-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\73lxnb8iv6-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\tbzzvxgdbe-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\mcledqn9ad-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\umbmvtxuny-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\b1mvtw2ykl-{0}-jfsiqqwiad-jfsiqqwiad.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\gbhg7p4g9t-{0}-57wdpf1kc1-57wdpf1kc1.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\compressed\sksxfdz8hu-{0}-57wdpf1kc1-57wdpf1kc1.gz
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.dll
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\refint\UamHelpDeskPA.Mvc.dll
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.pdb
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\UamHelpDeskPA.Mvc.genruntimeconfig.cache
+C:\Users\kevbc\source\repos\Proyecto_PA_G09\UamHelpDeskPA.Mvc\UamHelpDeskPA.Mvc\obj\Debug\net10.0\ref\UamHelpDeskPA.Mvc.dll

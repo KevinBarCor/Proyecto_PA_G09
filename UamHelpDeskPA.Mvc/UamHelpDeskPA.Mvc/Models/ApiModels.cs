@@ -18,21 +18,23 @@
         public T? Result { get; set; }
     }
 
-    /// Modelo para capturar la respuesta del login JWT.
+    /// Modelo para capturar la respuesta del auth JWT.
 
-    public class LoginResponseDto
+    public class AuthResponseDto
     {
-        /// Token JWT de acceso.
-
         public string AccessToken { get; set; } = string.Empty;
 
-        /// Tipo de token, normalmente "Bearer".
-
-        public string TokenType { get; set; } = "Bearer";
-
-        /// Tiempo de expiración del token en segundos.
+        public string RefreshToken { get; set; } = string.Empty;
 
         public int ExpiresIn { get; set; }
+    }
+    public class LoginOtpResponseDto
+    {
+        public string SessionToken { get; set; } = string.Empty;
+    }
+    public class VerifyOtpViewModel
+    {
+        public string Code { get; set; } = string.Empty;
     }
     public class LaboratoryDto
     {
@@ -103,6 +105,58 @@
 
         public DateTime? PurchaseDate { get; set; }
     }
+    public class RoleDto
+    {
+        public int Id { get; set; }
+
+        public string Name { get; set; } = string.Empty;
+
+        public string? Description { get; set; }
+
+        public bool IsActive { get; set; }
+    }
+
+    public class RoleUpsertDto
+    {
+        public string Name { get; set; } = string.Empty;
+
+        public string? Description { get; set; }
+    }
+    public class UserDto
+    {
+        public int Id { get; set; }
+
+        public int RoleId { get; set; }
+
+        public string RoleName { get; set; } = string.Empty;
+
+        public string FirstName { get; set; } = string.Empty;
+
+        public string LastName { get; set; } = string.Empty;
+
+        public string Email { get; set; } = string.Empty;
+
+        public bool IsActive { get; set; }
+    }
+
+    public class UserUpsertDto
+    {
+        public int RoleId { get; set; }
+
+        public string FirstName { get; set; } = string.Empty;
+
+        public string LastName { get; set; } = string.Empty;
+
+        public string Email { get; set; } = string.Empty;
+
+        public string Password { get; set; } = string.Empty;
+    }
+    public class LaboratorySelectDto
+    {
+        public int Id { get; set; }
+        public string Name { get; set; } = string.Empty;
+    }
+
     public class ApiModels
     {
     }

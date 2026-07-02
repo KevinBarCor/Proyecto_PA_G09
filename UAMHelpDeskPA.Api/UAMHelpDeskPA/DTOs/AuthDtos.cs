@@ -4,10 +4,10 @@ namespace UamHelpDeskPA.Api.DTOs
     public class LoginRequestDto
     {
         /// <summary>
-        /// Nombre de usuario para iniciar sesión.
+        /// Email de usuario para iniciar sesión.
         /// </summary>
         [Required]
-        public string Username { get; set; } = string.Empty;
+        public string Email { get; set; } = string.Empty;
 
         /// <summary>
         /// Contraseña del usuario.
@@ -25,6 +25,10 @@ namespace UamHelpDeskPA.Api.DTOs
         /// Token JWT emitido por la API.
         /// </summary>
         public string AccessToken { get; set; } = string.Empty;
+        /// <summary>
+        /// RefreshToken JWT emitido por la API.
+        /// </summary>
+        public string RefreshToken { get; set; } = string.Empty;
 
         /// <summary>
         /// Tipo de token.
@@ -36,4 +40,64 @@ namespace UamHelpDeskPA.Api.DTOs
         /// </summary>
         public int ExpiresIn { get; set; }
     }
+    public class RefreshTokenRequestDto
+    {
+        [Required]
+        public string RefreshToken { get; set; } = string.Empty;
+    }
+    public class RefreshTokenResponseDto
+    {
+        public string AccessToken { get; set; } = string.Empty;
+
+        public string RefreshToken { get; set; } = string.Empty;
+
+        public string TokenType { get; set; } = "Bearer";
+
+        public int ExpiresIn { get; set; }
+    }
+    public class LogoutRequestDto
+    {
+        [Required]
+        public string RefreshToken { get; set; } = string.Empty;
+    }
+    public class ForgotPasswordRequestDto
+    {
+        [Required]
+        [EmailAddress]
+        public string Email { get; set; } = string.Empty;
+    }
+    public class ResetPasswordRequestDto
+    {
+        [Required]
+        public string SessionToken { get; set; } = string.Empty;
+
+        [Required]
+        [StringLength(6)]
+        public string Code { get; set; } = string.Empty;
+
+        [Required]
+        public string NewPassword { get; set; } = string.Empty;
+
+        [Required]
+        public string ConfirmPassword { get; set; } = string.Empty;
+    }
+    public class ChangePasswordRequestDto
+    {
+        [Required]
+        public string CurrentPassword { get; set; } = string.Empty;
+
+        [Required]
+        public string NewPassword { get; set; } = string.Empty;
+
+        [Required]
+        public string ConfirmPassword { get; set; } = string.Empty;
+    }
+    public record MySessionDto(
+        int Id,
+        string Token,
+        DateTime CreatedAtUtc,
+        DateTime ExpiresAtUtc,
+        DateTime? RevokedAtUtc,
+        string? RevokedReason
+    );
 }

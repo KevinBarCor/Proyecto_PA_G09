@@ -1,0 +1,142 @@
+﻿@model UamHelpDeskPA.Mvc.Models.RegisterViewModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <meta charset="utf-8" />
+
+    <title>Crear cuenta</title>
+
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" />
+
+</head>
+
+<body class="bg-light">
+
+    <div class="container d-flex justify-content-center align-items-center"
+         style="height:100vh;">
+
+        <div class="card shadow p-4"
+             style="width:420px;">
+
+            <h3 class="text-center mb-4">
+
+                Crear cuenta
+
+            </h3>
+
+            <form asp-action="Register"
+                  method="post">
+
+                <div class="mb-3">
+
+                    <label asp-for="FirstName"></label>
+
+                    <input asp-for="FirstName"
+                           class="form-control" />
+
+                    <span asp-validation-for="FirstName"
+                          class="text-danger"></span>
+
+                </div>
+
+                <div class="mb-3">
+
+                    <label asp-for="LastName"></label>
+
+                    <input asp-for="LastName"
+                           class="form-control" />
+
+                    <span asp-validation-for="LastName"
+                          class="text-danger"></span>
+
+                </div>
+
+                <div class="mb-3">
+
+                    <label asp-for="Email"></label>
+
+                    <input asp-for="Email"
+                           class="form-control" />
+
+                    <span asp-validation-for="Email"
+                          class="text-danger"></span>
+
+                </div>
+
+                <div class="mb-3">
+
+                    <label asp-for="Password"></label>
+
+                    <input asp-for="Password"
+                           class="form-control"
+                           type="password" />
+
+                    <span asp-validation-for="Password"
+                          class="text-danger"></span>
+
+                </div>
+
+                <div class="mb-3">
+
+                    <label asp-for="ConfirmPassword"></label>
+
+                    <input asp-for="ConfirmPassword"
+                           class="form-control"
+                           type="password" />
+
+                    <span asp-validation-for="ConfirmPassword"
+                          class="text-danger"></span>
+
+                </div>
+
+                @if (!ViewData.ModelState.IsValid)
+                {
+                    <div class="alert alert-danger">
+
+                        Revise la información ingresada.
+
+                    </div>
+                }
+
+                <button class="btn btn-success w-100">
+
+                    Crear cuenta
+
+                </button>
+
+                <hr />
+
+                <div class="text-center">
+
+                    <a asp-action="Login">
+
+                        Volver al inicio de sesión
+
+                    </a>
+
+                </div>
+
+            </form>
+
+        </div>
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.20.0/dist/jquery.validate.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery-validation-unobtrusive@4.0.0/dist/jquery.validate.unobtrusive.min.js"></script>
+
+</body>
+
+</html>

@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "42YUkT827tU=",
+  "dgSpecHash": "wN9Mj44qrjQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kevbc\\source\\repos\\UAMHelpDeskPA.Api\\UAMHelpDeskPA\\UamHelpDeskPA.Api.csproj",
+  "projectFilePath": "C:\\Users\\kevbc\\source\\repos\\Proyecto_PA_G09\\UAMHelpDeskPA.Api\\UAMHelpDeskPA\\UAMHelpDeskPA.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kevbc\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\kevbc\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
+    "C:\\Users\\kevbc\\.nuget\\packages\\bcrypt.net-next\\4.2.0\\bcrypt.net-next.4.2.0.nupkg.sha512",
     "C:\\Users\\kevbc\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\kevbc\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\10.0.8\\microsoft.aspnetcore.authentication.jwtbearer.10.0.8.nupkg.sha512",
     "C:\\Users\\kevbc\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",

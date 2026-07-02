@@ -1,22 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kevbc\\source\\repos\\UamHelpDeskPA.Mvc\\",
+  "WorkspaceRootPath": "C:\\Users\\kevbc\\source\\repos\\Proyecto_PA_G09\\UamHelpDeskPA.Mvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3679766-6340-3818-8DDA-0D413298D6F0}|UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj|c:\\users\\kevbc\\source\\repos\\uamhelpdeskpa.mvc\\uamhelpdeskpa.mvc\\views\\laboratories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3679766-6340-3818-8DDA-0D413298D6F0}|UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj|solutionrelative:uamhelpdeskpa.mvc\\views\\laboratories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A3679766-6340-3818-8DDA-0D413298D6F0}|UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj|c:\\users\\kevbc\\source\\repos\\proyecto_pa_g09\\uamhelpdeskpa.mvc\\uamhelpdeskpa.mvc\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3679766-6340-3818-8DDA-0D413298D6F0}|UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj|solutionrelative:uamhelpdeskpa.mvc\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3679766-6340-3818-8DDA-0D413298D6F0}|UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj|c:\\users\\kevbc\\source\\repos\\uamhelpdeskpa.mvc\\uamhelpdeskpa.mvc\\models\\apimodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3679766-6340-3818-8DDA-0D413298D6F0}|UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj|solutionrelative:uamhelpdeskpa.mvc\\models\\apimodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3679766-6340-3818-8DDA-0D413298D6F0}|UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj|c:\\users\\kevbc\\source\\repos\\proyecto_pa_g09\\uamhelpdeskpa.mvc\\uamhelpdeskpa.mvc\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3679766-6340-3818-8DDA-0D413298D6F0}|UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj|solutionrelative:uamhelpdeskpa.mvc\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3679766-6340-3818-8DDA-0D413298D6F0}|UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj|c:\\users\\kevbc\\source\\repos\\uamhelpdeskpa.mvc\\uamhelpdeskpa.mvc\\controllers\\laboratoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3679766-6340-3818-8DDA-0D413298D6F0}|UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj|solutionrelative:uamhelpdeskpa.mvc\\controllers\\laboratoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3679766-6340-3818-8DDA-0D413298D6F0}|UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj|c:\\users\\kevbc\\source\\repos\\proyecto_pa_g09\\uamhelpdeskpa.mvc\\uamhelpdeskpa.mvc\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3679766-6340-3818-8DDA-0D413298D6F0}|UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj|solutionrelative:uamhelpdeskpa.mvc\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3679766-6340-3818-8DDA-0D413298D6F0}|UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj|c:\\users\\kevbc\\source\\repos\\uamhelpdeskpa.mvc\\uamhelpdeskpa.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A3679766-6340-3818-8DDA-0D413298D6F0}|UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj|solutionrelative:uamhelpdeskpa.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A3679766-6340-3818-8DDA-0D413298D6F0}|UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj|c:\\users\\kevbc\\source\\repos\\proyecto_pa_g09\\uamhelpdeskpa.mvc\\uamhelpdeskpa.mvc\\services\\apiclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3679766-6340-3818-8DDA-0D413298D6F0}|UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj|solutionrelative:uamhelpdeskpa.mvc\\services\\apiclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3679766-6340-3818-8DDA-0D413298D6F0}|UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj|c:\\users\\kevbc\\source\\repos\\proyecto_pa_g09\\uamhelpdeskpa.mvc\\uamhelpdeskpa.mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3679766-6340-3818-8DDA-0D413298D6F0}|UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj|solutionrelative:uamhelpdeskpa.mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3679766-6340-3818-8DDA-0D413298D6F0}|UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj|c:\\users\\kevbc\\source\\repos\\proyecto_pa_g09\\uamhelpdeskpa.mvc\\uamhelpdeskpa.mvc\\views\\equipment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3679766-6340-3818-8DDA-0D413298D6F0}|UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj|solutionrelative:uamhelpdeskpa.mvc\\views\\equipment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3679766-6340-3818-8DDA-0D413298D6F0}|UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj|c:\\users\\kevbc\\source\\repos\\proyecto_pa_g09\\uamhelpdeskpa.mvc\\uamhelpdeskpa.mvc\\controllers\\equipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3679766-6340-3818-8DDA-0D413298D6F0}|UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj|solutionrelative:uamhelpdeskpa.mvc\\controllers\\equipmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +38,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EquipmentController.cs",
+              "DocumentMoniker": "C:\\Users\\kevbc\\source\\repos\\Proyecto_PA_G09\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\Controllers\\EquipmentController.cs",
+              "RelativeDocumentMoniker": "UamHelpDeskPA.Mvc\\Controllers\\EquipmentController.cs",
+              "ToolTip": "C:\\Users\\kevbc\\source\\repos\\Proyecto_PA_G09\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\Controllers\\EquipmentController.cs",
+              "RelativeToolTip": "UamHelpDeskPA.Mvc\\Controllers\\EquipmentController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwEMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T19:11:44.28Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevbc\\source\\repos\\Proyecto_PA_G09\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\Views\\equipment\\Index.cshtml",
+              "RelativeDocumentMoniker": "UamHelpDeskPA.Mvc\\Views\\equipment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kevbc\\source\\repos\\Proyecto_PA_G09\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\Views\\equipment\\Index.cshtml",
+              "RelativeToolTip": "UamHelpDeskPA.Mvc\\Views\\equipment\\Index.cshtml",
+              "ViewState": "AgIAAMIBAAAAAAAAAAAgwOABAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-01T19:08:41.303Z",
+              "IsPinned": true
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\kevbc\\source\\repos\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\Views\\laboratories\\Index.cshtml",
-              "RelativeDocumentMoniker": "UamHelpDeskPA.Mvc\\Views\\laboratories\\Index.cshtml",
-              "ToolTip": "C:\\Users\\kevbc\\source\\repos\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\Views\\laboratories\\Index.cshtml",
-              "RelativeToolTip": "UamHelpDeskPA.Mvc\\Views\\laboratories\\Index.cshtml",
-              "ViewState": "AgIAAMUBAAAAAAAAAAAkwOcBAAAMAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\kevbc\\source\\repos\\Proyecto_PA_G09\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "UamHelpDeskPA.Mvc\\Views\\Roles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kevbc\\source\\repos\\Proyecto_PA_G09\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "UamHelpDeskPA.Mvc\\Views\\Roles\\Index.cshtml",
+              "ViewState": "AgIAABYCAAAAAAAAAAAgwBkCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-02T19:00:07.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LaboratoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\kevbc\\source\\repos\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\Controllers\\LaboratoriesController.cs",
-              "RelativeDocumentMoniker": "UamHelpDeskPA.Mvc\\Controllers\\LaboratoriesController.cs",
-              "ToolTip": "C:\\Users\\kevbc\\source\\repos\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\Controllers\\LaboratoriesController.cs",
-              "RelativeToolTip": "UamHelpDeskPA.Mvc\\Controllers\\LaboratoriesController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAYwG4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T15:27:08.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApiModels.cs",
-              "DocumentMoniker": "C:\\Users\\kevbc\\source\\repos\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\Models\\ApiModels.cs",
-              "RelativeDocumentMoniker": "UamHelpDeskPA.Mvc\\Models\\ApiModels.cs",
-              "ToolTip": "C:\\Users\\kevbc\\source\\repos\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\Models\\ApiModels.cs",
-              "RelativeToolTip": "UamHelpDeskPA.Mvc\\Models\\ApiModels.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAuwC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T15:04:05.211Z",
+              "WhenOpened": "2026-07-02T14:19:32.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\kevbc\\source\\repos\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "UamHelpDeskPA.Mvc\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\kevbc\\source\\repos\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "UamHelpDeskPA.Mvc\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABhAAAAAAAAAA==",
+              "Title": "ApiClientService.cs",
+              "DocumentMoniker": "C:\\Users\\kevbc\\source\\repos\\Proyecto_PA_G09\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\Services\\ApiClientService.cs",
+              "RelativeDocumentMoniker": "UamHelpDeskPA.Mvc\\Services\\ApiClientService.cs",
+              "ToolTip": "C:\\Users\\kevbc\\source\\repos\\Proyecto_PA_G09\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\Services\\ApiClientService.cs",
+              "RelativeToolTip": "UamHelpDeskPA.Mvc\\Services\\ApiClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T14:12:42.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kevbc\\source\\repos\\Proyecto_PA_G09\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "UamHelpDeskPA.Mvc\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kevbc\\source\\repos\\Proyecto_PA_G09\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "UamHelpDeskPA.Mvc\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAADUDAAAAAAAAAAAwwIICAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-01T16:29:10.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-02T13:43:52.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\kevbc\\source\\repos\\Proyecto_PA_G09\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "UamHelpDeskPA.Mvc\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\kevbc\\source\\repos\\Proyecto_PA_G09\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "UamHelpDeskPA.Mvc\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAkwKkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T13:41:36.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\kevbc\\source\\repos\\Proyecto_PA_G09\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UamHelpDeskPA.Mvc\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\kevbc\\source\\repos\\Proyecto_PA_G09\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UamHelpDeskPA.Mvc\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T13:41:21.223Z"
             }
           ]
         }

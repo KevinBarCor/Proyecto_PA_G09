@@ -448,30 +448,40 @@
         let laboratorios = [];
         let idPendienteEliminar = null;
 
-                function cargarLaboratorios() {
+        function cargarLaboratorios() {
 
             $.ajax({
                 url: endpoints.labs,
                 type: 'GET',
 
-                success: function (data) {
+                   success: function (response) {
 
-                    laboratorios = data;
+            console.log(response);
 
-                    const ddl = $('#laboratoryIdInput');
+            laboratorios = response;
 
-                    ddl.empty();
+            const ddl = $('#laboratoryIdInput');
 
-                    $.each(laboratorios, function (i, l) {
+            ddl.empty();
 
-                        ddl.append(`
-                            <option value="${l.id}">
-                                ${l.name}
-                            </option>
-                        `);
+            ddl.append(`
+                <option value="">
+                    Seleccione un laboratorio
+                </option>
+            `);
 
-                    });
-                },
+            $.each(laboratorios, function (i, l) {
+
+                ddl.append(`
+                    <option value="${l.id}">
+                        ${l.name}
+                    </option>
+                `);
+
+            });
+
+        },
+
                 error: function () {
 
                     $('#laboratoryIdInput').empty();

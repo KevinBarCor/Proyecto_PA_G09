@@ -40,6 +40,7 @@
                         <th>Edificio</th>
                         <th>Piso</th>
                         <th>Capacidad</th>
+                        <th>Estado</th>
                         <th class="text-center" style="width:100px;">Acciones</th>
                     </tr>
                 </thead>
@@ -283,14 +284,14 @@
                     url: endpoints.get,
                     type: 'GET',
 
-                    success: function (data) {
+                    success: function (response) {
 
-                        laboratorios = data;
+                    laboratorios = response;
 
-                        renderTabla();
+                    renderTabla();
 
-                        $('#loadingSpinner').hide();
-                        $('#tablaWrapper').show();
+                    $('#loadingSpinner').hide();
+                    $('#tablaWrapper').show();
                     },
 
                     error: function () {
@@ -314,7 +315,7 @@
 
                     tbody.append(`
                         <tr>
-                            <td colspan="6" class="text-center text-muted py-4">
+                            <td colspan="7" class="text-center text-muted py-4">
                                 No hay laboratorios
                             </td>
                         </tr>
@@ -324,35 +325,41 @@
                     return;
                 }
 
-                $.each(laboratorios, function (i, l) {
+            $.each(laboratorios, function (i, l) {
 
-                    tbody.append(`
-                        <tr>
-                            <td class="text-center">${l.id}</td>
-                            <td>${l.name}</td>
-                            <td>${l.building}</td>
-                            <td>${l.buildingFloor}</td>
-                            <td>${l.capacity}</td>
+            tbody.append(`
+                <tr>
+                    <td class="text-center">${l.id}</td>
+                    <td>${l.name}</td>
+                    <td>${l.building}</td>
+                    <td>${l.buildingFloor}</td>
+                    <td>${l.capacity}</td>
 
-                            <td class="text-center">
-                                    <button class="btn btn-primary btn-editar"
-                                        data-id="${l.id}">
-                                    <i class="fas fa-edit"></i>
-                                </button>
-                                <button class="btn btn-info btn-detalle"
-                                        data-id="${l.id}">
-                                    <i class="fas fa-eye"></i>
-                                </button>
+                    <td class="text-center">
+                        ${l.isActive
+                            ? '<span class="badge badge-success">Activo</span>'
+                            : '<span class="badge badge-danger">Inactivo</span>'}
+                    </td>
 
-                                <button class="btn btn-danger btn-eliminar"
-                                        data-id="${l.id}">
-                                    <i class="fas fa-trash"></i>
-                                </button>
+                    <td class="text-center">
+                        <button class="btn btn-primary btn-editar"
+                                data-id="${l.id}">
+                            <i class="fas fa-edit"></i>
+                        </button>
 
-                            </td>
-                        </tr>
-                    `);
-                });
+                        <button class="btn btn-info btn-detalle"
+                                data-id="${l.id}">
+                            <i class="fas fa-eye"></i>
+                        </button>
+
+                        <button class="btn btn-danger btn-eliminar"
+                                data-id="${l.id}">
+                            <i class="fas fa-trash"></i>
+                        </button>
+                    </td>
+                </tr>
+            `);
+            });
 
                 $('#totalLaboratorios').text(laboratorios.length);
             }
@@ -406,9 +413,14 @@
                         $('#modalDetalleLaboratorio').modal('show');
                     },
 
-                    error: function () {
-                        toastr.error('No se pudo cargar el detalle', 'Error');
-                    }
+                        error: function (xhr) {
+
+                            const result = xhr.responseJSON;
+
+                            toastr.error(
+                        result?.message ?? 'Error inesperado'
+                        );
+                        }
                 });
             }
                     function editar(id) {
@@ -456,14 +468,16 @@
                     body: JSON.stringify(dto)
                 }
             );
+                const result = await response.json();
 
-            if (!response.ok) {
-                toastr.error('No fue posible guardar', 'Error');
-                return;
-            }
+                if (!response.ok || !result.success) {
 
+                    toastr.error(result.message);
+
+                    return;
+                }
             $('#modalLaboratorio').modal('hide');
-            toastr.success('Guardado correctamente', 'Éxito');
+            toastr.success(result.message);
 
             cargarLaboratorios();
         }
@@ -478,13 +492,18 @@
                 { method: 'DELETE' }
             );
 
-            if (!response.ok) {
-                toastr.error('No se pudo eliminar', 'Error');
-                return;
-            }
+        const result = await response.json();
 
-            toastr.success('Eliminado correctamente', 'Éxito');
-            cargarLaboratorios();
+                if (!response.ok || !result.success) {
+
+                    toastr.error(result.message);
+
+                    return;
+                }
+
+                toastr.success(result.message);
+
+                cargarLaboratorios();
             }
 
             // =========================
@@ -510,6 +529,7 @@
                     editar($(this).data('id'));
                 });
                 $('#btnGuardar').on('click', guardar);
+                $('#btnConfirmarEliminar').on('click', eliminar);
             });
 
         })();

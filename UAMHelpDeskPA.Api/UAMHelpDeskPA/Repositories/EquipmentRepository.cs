@@ -5,7 +5,7 @@ using UamHelpDeskPA.Api.Data;
 using UamHelpDeskPA.Api.DTOs;
 using UamHelpDeskPA.Api.Models;
 
-namespace UamHelpDeskPA.Repositories
+namespace UamHelpDeskPA.Api.Repositories
 {
     public class EquipmentRepository (AppDbContext context,IStringLocalizer<EquipmentRepository> localizer) : Repository<Equipment>(context), IEquipmentRepository
     {

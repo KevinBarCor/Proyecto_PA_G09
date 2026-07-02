@@ -6,6 +6,7 @@
   "ColumnOrder": [
     "name",
     "type",
+    "es",
     "neutral-value",
     "neutral-comment",
     "en"

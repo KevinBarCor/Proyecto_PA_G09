@@ -2,40 +2,169 @@
     ViewData["Title"] = "Inicio";
 }
 
-<div class="container mt-5 text-center">
+<div class="container mt-5">
 
-    <img src="~/images/uam-logo.png"
-         width="250"
-         class="mb-4" />
+    <div class="text-center mb-5">
 
-    <h1 class="display-4 mb-3">
-        UAM Lab Help Desk
-    </h1>
+        <img src="~/images/uam-logo.png"
+             width="180"
+             class="mb-4" />
 
-    <p class="lead mb-4">
-        Sistema de Gestión de Laboratorios y Equipos
-    </p>
+        <h1 class="display-4 fw-bold">
 
-    <div class="d-flex justify-content-center gap-3">
+            UAM Lab Help Desk
 
-        <a asp-controller="Laboratories"
-           asp-action="Index"
-           class="btn btn-primary btn-lg">
+        </h1>
 
-            <i class="fas fa-building mr-2"></i>
-            Laboratorios
+        <p class="lead">
 
-        </a>
+            Sistema de Gestión de Laboratorios,
+            Equipos, Roles y Usuarios
 
-        <a asp-controller="Equipment"
-           asp-action="Index"
-           class="btn btn-success btn-lg">
+        </p>
 
-            <i class="fas fa-desktop mr-2"></i>
-            Equipos
+    </div>
 
-        </a>
+    <div class="row g-4">
 
+        <div class="col-md-3">
+
+            <div class="card shadow h-100">
+
+                <div class="card-body text-center">
+
+                    <i class="fas fa-building fa-3x text-primary mb-3"></i>
+
+                    <h4>Laboratorios</h4>
+
+                    <p>
+                        Administración de laboratorios.
+                    </p>
+
+                    <a asp-controller="Laboratories"
+                       asp-action="Index"
+                       class="btn btn-primary">
+
+                        Ingresar
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="col-md-3">
+
+            <div class="card shadow h-100">
+
+                <div class="card-body text-center">
+
+                    <i class="fas fa-desktop fa-3x text-success mb-3"></i>
+
+                    <h4>Equipos</h4>
+
+                    <p>
+                        Gestión de equipos.
+                    </p>
+
+                    <a asp-controller="Equipment"
+                       asp-action="Index"
+                       class="btn btn-success">
+
+                        Ingresar
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="col-md-3">
+
+            <div class="card shadow h-100">
+
+                <div class="card-body text-center">
+
+                    <i class="fas fa-user-shield fa-3x text-warning mb-3"></i>
+
+                    <h4>Roles</h4>
+
+                    <p>
+                        Administración de roles.
+                    </p>
+
+                    <a asp-controller="Roles"
+                       asp-action="Index"
+                       class="btn btn-warning">
+
+                        Ingresar
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="col-md-3">
+
+            <div class="card shadow h-100">
+
+                <div class="card-body text-center">
+
+                    <i class="fas fa-users fa-3x text-info mb-3"></i>
+
+                    <h4>Usuarios</h4>
+
+                    <p>
+                        Administración de usuarios.
+                    </p>
+
+                    <a asp-controller="Users"
+                       asp-action="Index"
+                       class="btn btn-info">
+
+                        Ingresar
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+        <div class="col-md-3">
+
+            <div class="card shadow h-100">
+
+                <div class="card-body text-center">
+
+                    <i class="fas fa-shield-alt fa-3x text-danger mb-3"></i>
+
+                    <h4>Mis sesiones</h4>
+
+                    <p>
+                        Gestiona dispositivos conectados.
+                    </p>
+
+                    <a asp-controller="Auth"
+                       asp-action="MySessions"
+                       class="btn btn-danger">
+
+                        Ver sesiones
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
     </div>
 
 </div>

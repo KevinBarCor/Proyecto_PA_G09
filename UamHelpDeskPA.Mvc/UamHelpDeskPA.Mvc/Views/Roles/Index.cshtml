@@ -1,0 +1,739 @@
+﻿@{
+    ViewData["Title"] = "Roles";
+}
+
+<div class="container mt-4">
+
+    <div class="d-flex justify-content-between align-items-center mb-3">
+
+        <h2>
+            <i class="fas fa-user-shield"></i>
+            Roles
+        </h2>
+
+        <button class="btn btn-primary"
+                id="btnNuevoRol">
+
+            <i class="fas fa-plus"></i>
+            Nuevo Rol
+
+        </button>
+
+    </div>
+
+    <div class="card shadow">
+
+        <div class="card-header">
+
+            <h5 class="mb-0">
+                Listado de Roles
+            </h5>
+
+        </div>
+
+        <div class="card-body">
+
+            <div class="table-responsive">
+
+                <table class="table table-bordered table-hover"
+                       id="tablaRoles">
+
+                    <thead class="table-dark">
+
+                        <tr>
+
+                            <th>ID</th>
+                            <th>Nombre</th>
+                            <th>Descripción</th>
+                            <th>Estado</th>
+                            <th width="180">
+                                Acciones
+                            </th>
+
+                        </tr>
+
+                    </thead>
+
+                    <tbody>
+                    </tbody>
+
+                </table>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+<div class="modal fade"
+     id="modalRol"
+     tabindex="-1">
+
+    <div class="modal-dialog">
+
+        <div class="modal-content">
+
+            <div class="modal-header bg-primary text-white">
+
+                <h5 class="modal-title"
+                    id="tituloModal">
+
+                    Nuevo Rol
+
+                </h5>
+
+                <button type="button"
+                        class="btn-close btn-close-white"
+                        data-bs-dismiss="modal">
+                </button>
+
+            </div>
+
+            <div class="modal-body">
+
+                <input type="hidden"
+                       id="txtId" />
+
+                <div class="mb-3">
+
+                    <label class="form-label">
+
+                        Nombre
+
+                    </label>
+
+                    <select class="form-select"
+                            id="txtNombre">
+
+                        <option value="">
+
+                            Seleccione un rol
+
+                        </option>
+
+                        <option value="Administrator">
+
+                            Administrator
+
+                        </option>
+
+                        <option value="Technician">
+
+                            Technician
+
+                        </option>
+
+                        <option value="Instructor">
+
+                            Instructor
+
+                        </option>
+
+                    </select>
+
+                </div>
+
+                <div class="mb-3">
+
+                    <label class="form-label">
+
+                        Descripción
+
+                    </label>
+
+                    <textarea class="form-control"
+                              id="txtDescripcion"
+                              rows="3">
+                    </textarea>
+
+                </div>
+
+            </div>
+
+            <div class="modal-footer">
+
+                <button type="button"
+                        class="btn btn-secondary"
+                        data-bs-dismiss="modal">
+
+                    Cancelar
+
+                </button>
+
+                <button type="button"
+                        class="btn btn-success"
+                        id="btnGuardar">
+
+                    Guardar
+
+                </button>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+<!-- MODAL DETALLE -->
+
+<div class="modal fade"
+     id="modalDetalle"
+     tabindex="-1">
+
+    <div class="modal-dialog">
+
+        <div class="modal-content">
+
+            <div class="modal-header bg-info text-white">
+
+                <h5 class="modal-title">
+
+                    Detalle del Rol
+
+                </h5>
+
+                <button type="button"
+                        class="btn-close btn-close-white"
+                        data-bs-dismiss="modal">
+                </button>
+
+            </div>
+
+            <div class="modal-body">
+
+                <p>
+
+                    <strong>Nombre:</strong>
+
+                    <span id="detalleNombre"></span>
+
+                </p>
+
+                <p>
+
+                    <strong>Descripción:</strong>
+
+                    <span id="detalleDescripcion"></span>
+
+                </p>
+
+                <p>
+
+                    <strong>Estado:</strong>
+
+                    <span id="detalleEstado"></span>
+
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+<!-- MODAL ELIMINAR -->
+
+<div class="modal fade"
+     id="modalEliminar"
+     tabindex="-1">
+
+    <div class="modal-dialog">
+
+        <div class="modal-content">
+
+            <div class="modal-header bg-danger text-white">
+
+                <h5 class="modal-title">
+
+                    Confirmar Eliminación
+
+                </h5>
+
+                <button type="button"
+                        class="btn-close btn-close-white"
+                        data-bs-dismiss="modal">
+                </button>
+
+            </div>
+
+            <div class="modal-body">
+
+                <input type="hidden"
+                       id="txtEliminarId" />
+
+                <p>
+
+                    ¿Desea eliminar este rol?
+
+                </p>
+
+            </div>
+
+            <div class="modal-footer">
+
+                <button type="button"
+                        class="btn btn-secondary"
+                        data-bs-dismiss="modal">
+
+                    Cancelar
+
+                </button>
+
+                <button type="button"
+                        class="btn btn-danger"
+                        id="btnConfirmarEliminar">
+
+                    Eliminar
+
+                </button>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+@section Scripts
+{
+    <script>
+
+        let rolEditando = false;
+
+        const endpoints = {
+
+            get: '/Roles/GetRoles',
+
+            getById: (id) =>
+                `/Roles/GetRoleById?id=${id}`,
+
+            create: '/Roles/CreateRole',
+
+            update: (id) =>
+                `/Roles/UpdateRole?id=${id}`,
+
+            delete: (id) =>
+                `/Roles/DeleteRole?id=${id}`
+
+              };
+
+        $(document).ready(function () {
+
+            cargarRoles();
+
+            });
+
+        function cargarRoles() {
+
+            $.ajax({
+
+                url: endpoints.get,
+
+                type: 'GET',
+
+                success: function (data) {
+
+                    renderTabla(data);
+
+                   },
+
+                error: function () {
+
+                    toastr.error(
+                        'Error cargando roles');
+
+                }
+
+               });
+
+           }
+
+           function renderTabla(roles) {
+
+            const tbody =
+                $('#tablaRoles tbody');
+
+            tbody.empty();
+
+            if (!roles ||
+                roles.length === 0) {
+
+                tbody.append(`
+                    <tr>
+                        <td colspan="5"
+                            class="text-center">
+                            No existen registros
+                        </td>
+                    </tr>
+                `);
+
+                return;
+              }
+
+              $.each(roles, function (index, role) {
+
+                tbody.append(`
+
+                    <tr>
+
+                        <td>${role.id}</td>
+
+                        <td>${role.name}</td>
+
+                        <td>${role.description ?? ''}</td>
+
+                        <td>
+
+                            ${role.isActive
+                                ? '<span class="badge bg-success">Activo</span>'
+                                : '<span class="badge bg-danger">Inactivo</span>'}
+
+                        </td>
+
+                        <td>
+
+                            <button class="btn btn-info btn-sm btnDetalle"
+                                    data-id="${role.id}">
+
+                                <i class="fas fa-eye"></i>
+
+                            </button>
+
+                            <button class="btn btn-warning btn-sm btnEditar"
+                                    data-id="${role.id}">
+
+                                <i class="fas fa-edit"></i>
+
+                            </button>
+
+                            <button class="btn btn-danger btn-sm btnEliminar"
+                                    data-id="${role.id}">
+
+                                <i class="fas fa-trash"></i>
+
+                            </button>
+
+                        </td>
+
+                    </tr>
+
+                `);
+
+            });
+
+        }
+                // NUEVO ROL
+
+        $('#btnNuevoRol').click(function () {
+
+            rolEditando = false;
+
+            $('#txtId').val('');
+            $('#txtNombre').val('');
+            $('#txtDescripcion').val('');
+
+            $('#tituloModal')
+                .text('Nuevo Rol');
+
+            const modal =
+                new bootstrap.Modal(
+                    document.getElementById('modalRol'));
+
+            modal.show();
+
+        });
+
+
+        // DETALLE
+
+        $(document).on(
+            'click',
+            '.btnDetalle',
+            function () {
+
+                const id =
+                    $(this).data('id');
+
+                $.ajax({
+
+                    url:
+                        endpoints.getById(id),
+
+                    type:
+                        'GET',
+
+                    success: function (response) {
+
+                        const role =
+                            response.result;
+
+                        $('#detalleNombre')
+                            .text(role.name);
+
+                        $('#detalleDescripcion')
+                            .text(role.description ?? '');
+
+                        $('#detalleEstado')
+                            .text(
+                                role.isActive
+                                    ? 'Activo'
+                                    : 'Inactivo');
+
+                        const modal =
+                            new bootstrap.Modal(
+                                document.getElementById('modalDetalle'));
+
+                        modal.show();
+
+                    },
+
+                    error: function () {
+
+                        toastr.error(
+                            'Error obteniendo detalle');
+
+                    }
+
+                });
+
+            });
+
+
+        // EDITAR
+
+        $(document).on(
+            'click',
+            '.btnEditar',
+            function () {
+
+                const id =
+                    $(this).data('id');
+
+                $.ajax({
+
+                    url:
+                        endpoints.getById(id),
+
+                    type:
+                        'GET',
+
+                    success: function (response) {
+
+
+                               const data =
+                    typeof response === 'string'
+                    ? JSON.parse(response)
+                    : response;
+
+                    const role = data.result;
+
+                       rolEditando = true;
+
+                       $('#txtId').val(role.id);
+
+
+                       $('#txtNombre').val(role.name);
+
+                       $('#txtDescripcion').val(role.description);
+
+                       $('#tituloModal').text('Editar Rol');
+
+                       const modal =
+                           new bootstrap.Modal(
+                               document.getElementById('modalRol'));
+
+                       modal.show();
+
+                   },
+
+                    error: function (xhr) {
+
+                        console.log(xhr);
+
+                        toastr.error('Error obteniendo el rol');
+
+                    }
+
+                });
+
+            });
+
+
+        // ELIMINAR
+
+        $(document).on(
+            'click',
+            '.btnEliminar',
+            function () {
+
+                const id =
+                    $(this).data('id');
+
+                $('#txtEliminarId')
+                    .val(id);
+
+                const modal =
+                    new bootstrap.Modal(
+                        document.getElementById('modalEliminar'));
+
+                modal.show();
+
+            });
+                     // GUARDAR (CREAR / EDITAR)
+
+        $('#btnGuardar').click(function () {
+
+            const dto = {
+
+                name:
+                    $('#txtNombre').val(),
+
+                description:
+                    $('#txtDescripcion').val()
+
+            };
+
+            if (!dto.name) {
+
+                toastr.warning(
+                    'Debe ingresar un nombre');
+
+                return;
+            }
+
+            if (!rolEditando) {
+
+                $.ajax({
+
+                    url:
+                        endpoints.create,
+
+                    type:
+                        'POST',
+
+                    contentType:
+                        'application/json',
+
+                    data:
+                        JSON.stringify(dto),
+
+                    success: function () {
+
+                        toastr.success(
+                            'Rol creado correctamente');
+
+                        bootstrap.Modal
+                            .getInstance(
+                                document.getElementById('modalRol'))
+                            .hide();
+
+                        cargarRoles();
+
+                    },
+
+                    error: function (xhr) {
+
+                        toastr.error(
+                            xhr.responseText ||
+                            'Error creando rol');
+
+                    }
+
+                });
+
+            }
+            else {
+
+                const id =
+                    $('#txtId').val();
+
+                $.ajax({
+
+                    url:
+                        endpoints.update(id),
+
+                    type:
+                        'PUT',
+
+                    contentType:
+                        'application/json',
+
+                    data:
+                        JSON.stringify(dto),
+
+                    success: function () {
+
+                        toastr.success(
+                            'Rol actualizado correctamente');
+
+                        bootstrap.Modal
+                            .getInstance(
+                                document.getElementById('modalRol'))
+                            .hide();
+
+                        cargarRoles();
+
+                    },
+
+                    error: function (xhr) {
+
+                        toastr.error(
+                            xhr.responseText ||
+                            'Error actualizando rol');
+
+                    }
+
+                });
+
+            }
+
+        });
+
+
+        // CONFIRMAR ELIMINACIÓN
+
+        $('#btnConfirmarEliminar').click(function () {
+
+            const id =
+                $('#txtEliminarId').val();
+
+            $.ajax({
+
+                url:
+                    endpoints.delete(id),
+
+                type:
+                    'DELETE',
+
+                success: function () {
+
+                    toastr.success(
+                        'Rol eliminado correctamente');
+
+                    bootstrap.Modal
+                        .getInstance(
+                            document.getElementById('modalEliminar'))
+                        .hide();
+
+                    cargarRoles();
+
+                },
+
+                error: function (xhr) {
+
+                    toastr.error(
+                        xhr.responseText ||
+                        'Error eliminando rol');
+
+                }
+
+            });
+
+        });
+    </script>
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kevbc\\source\\repos\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj": {}
+    "C:\\Users\\kevbc\\source\\repos\\Proyecto_PA_G09\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kevbc\\source\\repos\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj": {
+    "C:\\Users\\kevbc\\source\\repos\\Proyecto_PA_G09\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kevbc\\source\\repos\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj",
+        "projectUniqueName": "C:\\Users\\kevbc\\source\\repos\\Proyecto_PA_G09\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj",
         "projectName": "UamHelpDeskPA.Mvc",
-        "projectPath": "C:\\Users\\kevbc\\source\\repos\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj",
+        "projectPath": "C:\\Users\\kevbc\\source\\repos\\Proyecto_PA_G09\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc.csproj",
         "packagesPath": "C:\\Users\\kevbc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kevbc\\source\\repos\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\obj\\",
+        "outputPath": "C:\\Users\\kevbc\\source\\repos\\Proyecto_PA_G09\\UamHelpDeskPA.Mvc\\UamHelpDeskPA.Mvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

@@ -1,6 +1,38 @@
 [
   {
     "ContainingType": "UamHelpDesk.Api.Controllers.AuthController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/Auth/ChangePassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "UamHelpDeskPA.Api.DTOs.ChangePasswordRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UamHelpDesk.Api.Controllers.AuthController",
+    "Method": "ForgotPassword",
+    "RelativePath": "api/Auth/ForgotPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "UamHelpDeskPA.Api.DTOs.ForgotPasswordRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UamHelpDesk.Api.Controllers.AuthController",
     "Method": "Login",
     "RelativePath": "api/Auth/Login",
     "HttpMethod": "POST",
@@ -13,38 +45,110 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "UamHelpDeskPA.Api.DTOs.ApiOperationResultDto\u00601[[UamHelpDeskPA.Api.DTOs.LoginResponseDto, UAMHelpDeskPA.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      },
-      {
-        "Type": "UamHelpDeskPA.Api.DTOs.ApiOperationResultDto\u00601[[System.Object, System.Private.CoreLib, Version=10.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 400
-      },
-      {
-        "Type": "UamHelpDeskPA.Api.DTOs.ApiOperationResultDto\u00601[[System.Object, System.Private.CoreLib, Version=10.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 401
-      }
-    ]
+    "ReturnTypes": []
   },
   {
-    "ContainingType": "UAMHelpDeskPA.Controllers.EquipmentController",
+    "ContainingType": "UamHelpDesk.Api.Controllers.AuthController",
+    "Method": "Logout",
+    "RelativePath": "api/Auth/Logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "UamHelpDeskPA.Api.DTOs.LogoutRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UamHelpDesk.Api.Controllers.AuthController",
+    "Method": "MySessions",
+    "RelativePath": "api/Auth/MySessions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UamHelpDesk.Api.Controllers.AuthController",
+    "Method": "RefreshToken",
+    "RelativePath": "api/Auth/RefreshToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "UamHelpDeskPA.Api.DTOs.RefreshTokenRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UamHelpDesk.Api.Controllers.AuthController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/Auth/ResetPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "UamHelpDeskPA.Api.DTOs.ResetPasswordRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UamHelpDesk.Api.Controllers.AuthController",
+    "Method": "RevokeAllSessions",
+    "RelativePath": "api/Auth/RevokeAllSessions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UamHelpDesk.Api.Controllers.AuthController",
+    "Method": "RevokeSession",
+    "RelativePath": "api/Auth/RevokeSession/{refreshTokenId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "refreshTokenId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UamHelpDesk.Api.Controllers.AuthController",
+    "Method": "VerifyOtp",
+    "RelativePath": "api/Auth/VerifyOtp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "UamHelpDeskPA.Api.DTOs.VerifyOtpRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UamHelpDeskPA.Api.Controllers.EquipmentController",
     "Method": "CreateEquipment",
     "RelativePath": "api/Equipment/CreateEquipment",
     "HttpMethod": "POST",
@@ -60,7 +164,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UAMHelpDeskPA.Controllers.EquipmentController",
+    "ContainingType": "UamHelpDeskPA.Api.Controllers.EquipmentController",
     "Method": "DeleteEquipment",
     "RelativePath": "api/Equipment/DeleteEquipment/{id}",
     "HttpMethod": "DELETE",
@@ -76,7 +180,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UAMHelpDeskPA.Controllers.EquipmentController",
+    "ContainingType": "UamHelpDeskPA.Api.Controllers.EquipmentController",
     "Method": "GetAllEquipment",
     "RelativePath": "api/Equipment/GetAllEquipment",
     "HttpMethod": "GET",
@@ -86,7 +190,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UAMHelpDeskPA.Controllers.EquipmentController",
+    "ContainingType": "UamHelpDeskPA.Api.Controllers.EquipmentController",
     "Method": "GetEquipmentById",
     "RelativePath": "api/Equipment/GetEquipmentById/{id}",
     "HttpMethod": "GET",
@@ -102,7 +206,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UAMHelpDeskPA.Controllers.EquipmentController",
+    "ContainingType": "UamHelpDeskPA.Api.Controllers.EquipmentController",
     "Method": "GetEquipmentByLaboratory",
     "RelativePath": "api/Equipment/GetEquipmentByLaboratory/{laboratoryId}",
     "HttpMethod": "GET",
@@ -118,7 +222,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UAMHelpDeskPA.Controllers.EquipmentController",
+    "ContainingType": "UamHelpDeskPA.Api.Controllers.EquipmentController",
     "Method": "UpdateEquipment",
     "RelativePath": "api/Equipment/UpdateEquipment/{id}",
     "HttpMethod": "PUT",
@@ -139,7 +243,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UAMHelpDeskPA.Controllers.LaboratoriesController",
+    "ContainingType": "UamHelpDeskPA.Api.Controllers.LaboratoriesController",
     "Method": "CreateLaboratory",
     "RelativePath": "api/Laboratories/CreateLaboratory",
     "HttpMethod": "POST",
@@ -174,7 +278,7 @@
     ]
   },
   {
-    "ContainingType": "UAMHelpDeskPA.Controllers.LaboratoriesController",
+    "ContainingType": "UamHelpDeskPA.Api.Controllers.LaboratoriesController",
     "Method": "DeleteLaboratory",
     "RelativePath": "api/Laboratories/DeleteLaboratory/{id}",
     "HttpMethod": "DELETE",
@@ -209,7 +313,7 @@
     ]
   },
   {
-    "ContainingType": "UAMHelpDeskPA.Controllers.LaboratoriesController",
+    "ContainingType": "UamHelpDeskPA.Api.Controllers.LaboratoriesController",
     "Method": "GetAllLaboratories",
     "RelativePath": "api/Laboratories/GetAllLaboratories",
     "HttpMethod": "GET",
@@ -238,7 +342,7 @@
     ]
   },
   {
-    "ContainingType": "UAMHelpDeskPA.Controllers.LaboratoriesController",
+    "ContainingType": "UamHelpDeskPA.Api.Controllers.LaboratoriesController",
     "Method": "GetLaboratoryById",
     "RelativePath": "api/Laboratories/GetLaboratoryById/{id}",
     "HttpMethod": "GET",
@@ -273,7 +377,7 @@
     ]
   },
   {
-    "ContainingType": "UAMHelpDeskPA.Controllers.LaboratoriesController",
+    "ContainingType": "UamHelpDeskPA.Api.Controllers.LaboratoriesController",
     "Method": "UpdateLaboratory",
     "RelativePath": "api/Laboratories/UpdateLaboratory/{id}",
     "HttpMethod": "PUT",
@@ -320,6 +424,180 @@
         "StatusCode": 404
       }
     ]
+  },
+  {
+    "ContainingType": "UamHelpDeskPA.Api.Controllers.RolesController",
+    "Method": "CreateRole",
+    "RelativePath": "api/Roles/CreateRole",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "resource",
+        "Type": "UamHelpDeskPA.Api.DTOs.CreateRoleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UamHelpDeskPA.Api.Controllers.RolesController",
+    "Method": "DeleteRole",
+    "RelativePath": "api/Roles/DeleteRole/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UamHelpDeskPA.Api.Controllers.RolesController",
+    "Method": "GetAllRoles",
+    "RelativePath": "api/Roles/GetAllRoles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UamHelpDeskPA.Api.Controllers.RolesController",
+    "Method": "GetRoleById",
+    "RelativePath": "api/Roles/GetRoleById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UamHelpDeskPA.Api.Controllers.RolesController",
+    "Method": "UpdateRole",
+    "RelativePath": "api/Roles/UpdateRole/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "resource",
+        "Type": "UamHelpDeskPA.Api.DTOs.UpdateRoleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UamHelpDeskPA.Api.Controllers.UsersController",
+    "Method": "CreateUser",
+    "RelativePath": "api/Users/CreateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "resource",
+        "Type": "UamHelpDeskPA.Api.DTOs.CreateUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UamHelpDeskPA.Api.Controllers.UsersController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/Users/DeleteUser/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UamHelpDeskPA.Api.Controllers.UsersController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/Users/GetAllUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UamHelpDeskPA.Api.Controllers.UsersController",
+    "Method": "GetUserById",
+    "RelativePath": "api/Users/GetUserById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UamHelpDeskPA.Api.Controllers.UsersController",
+    "Method": "GetUsersByRole",
+    "RelativePath": "api/Users/GetUsersByRole/{roleId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roleId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UamHelpDeskPA.Api.Controllers.UsersController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/Users/UpdateUser/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "resource",
+        "Type": "UamHelpDeskPA.Api.DTOs.UpdateUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "UAMHelpDeskPA.Controllers.WeatherForecastController",
